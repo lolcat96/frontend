@@ -32,3 +32,27 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### <! -- Begin Community Garden Website Documentation -->
+
+This code serves as the frontend application for the Community Garden blockchain.
+
+Version 1 Authors:
+Tyson Lupul
+Kyle Lemmon
+
+Documentation:
+
+Push code revisions with this command:
+
+$ git push origin master
+
+If this command doesn't work, no problem. Use this guide:
+
+https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/connecting-to-github-with-ssh
+
+
+
+
+
+
